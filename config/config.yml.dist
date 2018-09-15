@@ -1,0 +1,10 @@
+# primary domain (optional)
+#domain: domain.tld
+
+# ssl (optional)
+#ssl: false
+
+# redirects (option)
+# specify a array with paths to redirect
+#redirects:
+#    "foo.html": "bar.php?foo=xyz"
